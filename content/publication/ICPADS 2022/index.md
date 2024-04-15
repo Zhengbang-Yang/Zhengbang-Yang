@@ -8,7 +8,7 @@ title: 'Improving Confidence of Uncertain Knowledge Graphs by Crowdsourcing with
 authors: 
   - Haodi Zhang
   - Wenxi Huang
-  - Chenyu Xu; Fengtian Qi; Chen Zhang; Kaishun Wu
+  - Chenyu Xu
   - admin
   - Hongxin Zhou
   - Fengtian Qi
