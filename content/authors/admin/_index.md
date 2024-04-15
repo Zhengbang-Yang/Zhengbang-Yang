@@ -3,7 +3,7 @@
 title: 杨正邦
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: Zhengbang Yang
 
 # Full name (for SEO)
 first_name: Zhengbang
@@ -29,7 +29,7 @@ bio: My research interests include Large Language Models, Federated Learning, Re
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Fedrated Learning
   - Large Language Models
   - AI in Finance
 
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhengbang Yang is a Ph.D. student in Infomation Technology at George Mason University. My research interests include Fedrated Learning, LLM and AI in Finance.
 {style="text-align: justify;"}
