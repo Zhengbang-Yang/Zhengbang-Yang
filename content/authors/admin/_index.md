@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 杨正邦
+title: Zhengbang Yang
 
 # Name pronunciation (optional)
 name_pronunciation:
