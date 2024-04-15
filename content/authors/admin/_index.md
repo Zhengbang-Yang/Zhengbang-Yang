@@ -93,7 +93,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'zyang30@gmu.edu'
+    link: '<zyang30@gmu.edu>'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
