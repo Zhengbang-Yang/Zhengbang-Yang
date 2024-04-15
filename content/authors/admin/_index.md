@@ -30,8 +30,8 @@ bio: My research interests include Large Language Models, Federated Learning, Re
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Large Language Models
+  - AI in Finance
 
 # Education to show in About widget
 education:
