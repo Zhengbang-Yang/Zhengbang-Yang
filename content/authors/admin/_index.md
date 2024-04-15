@@ -3,7 +3,7 @@
 title: 杨正邦
 
 # Name pronunciation (optional)
-name_pronunciation: Zhengbang Yang
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Zhengbang
@@ -120,5 +120,6 @@ social:
 highlight_name: true
 ---
 
-Zhengbang Yang is a Ph.D. student in Infomation Technology at George Mason University. My research interests include Fedrated Learning, LLM and AI in Finance.
+I am Zhengbang Yang (杨正邦), a Ph.D. student in Infomation Technology at George Mason University. My research interests include Fedrated Learning, LLM and AI in Finance.
 {style="text-align: justify;"}
+
