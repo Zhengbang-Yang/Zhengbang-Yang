@@ -84,7 +84,7 @@ featured: true
 # slides: example
 
 # ICPADS 2022
-title: 'SportQA: A Benchmark for Sports Understanding in Large Language Models'
+title: 'Improving Confidence of Uncertain Knowledge Graphs by Crowdsourcing with Limited Budget'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
