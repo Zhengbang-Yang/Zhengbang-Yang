@@ -36,15 +36,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Infomation Technology
+      institution: George Mason University
+      year: 2024-2029(expected)
+    - course: Master of Data Science
+      institution: University of California, Irvine
+      year: 2022-2023
+    - course: B.Econ in Finance and B.Eng in Computer Science
+      institution: Shenzhen University
+      year: 2018-2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
