@@ -64,8 +64,8 @@ sections:
       items:
         - title: Artificial intelligence Intern
           company: Guosen Securities
-          company_url: 'https://en.wikipedia.org/wiki/Guosen_Securities#/media/File:Guosen_Securities_Logo.svg'
-          company_logo: org-gc
+          company_url: 
+          company_logo: 'https://en.wikipedia.org/wiki/Guosen_Securities#/media/File:Guosen_Securities_Logo.svg'
           location: Shenzhen China
           date_start: '2021-05-28'
           date_end: '2021-08-31'
