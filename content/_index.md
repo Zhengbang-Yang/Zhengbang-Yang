@@ -71,6 +71,7 @@ sections:
           date_end: '2021-08-31'
           description: |2-
             Responsibilities include:
+            
             *Conducted research on the impact of inflation, commodity index, and interest rates on the macroeconomy & mined and tested factors with Python.
             * Employed regression analysis, time series forecasting, and cross-sectional analyses to derive significant economic factors with R. Resulting in enhanced risk management and 4% alpha for the portfolio.
             * Designed a framework to perform attribution analysis between stock trading & position, time selection & stock selection, etc., with methods in Brison, T-M, H-M, C-L, and Fama French. Utilized JavaScript and Tableau to develop a dynamic visualization dashboard to show the result of attribution analysis.
