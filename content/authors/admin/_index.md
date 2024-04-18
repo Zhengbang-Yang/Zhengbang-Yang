@@ -120,6 +120,6 @@ social:
 highlight_name: true
 ---
 
-I am Zhengbang Yang (杨正邦), a Ph.D. student in Infomation Technology at George Mason University. My research interests include Fedrated Learning, LLM and AI in Finance.
+I am Yang, Zhengbang (杨, 正邦), a Ph.D. student in Infomation Technology at George Mason University. My research interests include Fedrated Learning, LLM and AI in Finance.
 {style="text-align: justify;"}
 
