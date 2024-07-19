@@ -25,7 +25,7 @@ organizations:
     url: https://www.gmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Large Language Models, Federated Learning, Reinforcement Learning, and AI in Finance.
+# bio: My research interests include Large Language Models, Federated Learning, Reinforcement Learning, and AI in Finance.
 
 # Interests to show in About widget
 interests:
