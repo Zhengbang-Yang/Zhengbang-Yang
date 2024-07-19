@@ -120,6 +120,6 @@ social:
 highlight_name: true
 ---
 
-I am Yang, Zhengbang (杨, 正邦), a Ph.D. student in Infomation Technology at George Mason University.
+I am Yang, Zhengbang (杨, 正邦), a Ph.D. student in Infomation Technology at George Mason University supervised by Zhuangdi Zhu.
 {style="text-align: justify;"}
 
