@@ -29,9 +29,9 @@ bio: My research interests include Large Language Models, Federated Learning, Re
 
 # Interests to show in About widget
 interests:
-  - Fedrated Learning
-  - Large Language Models
-  - AI in Finance
+  - Personalized LLMs
+  - LLMs Enhancement Techniques
+  - LLMs in sport and health care
 
 # Education to show in About widget
 education:
@@ -120,6 +120,6 @@ social:
 highlight_name: true
 ---
 
-I am Yang, Zhengbang (杨, 正邦), a Ph.D. student in Infomation Technology at George Mason University. My research interests include Fedrated Learning, LLM and AI in Finance.
+I am Yang, Zhengbang (杨, 正邦), a Ph.D. student in Infomation Technology at George Mason University.
 {style="text-align: justify;"}
 
