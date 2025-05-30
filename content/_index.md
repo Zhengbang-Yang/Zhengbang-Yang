@@ -76,7 +76,7 @@ sections:
             * Employed regression analysis, time series forecasting, and cross-sectional analyses to derive significant economic factors with R. Resulting in enhanced risk management and 4% alpha for the portfolio.
             * Designed a framework to perform attribution analysis between stock trading & position, time selection & stock selection, etc., with methods in Brison, T-M, H-M, C-L, and Fama French. Utilized JavaScript and Tableau to develop a dynamic visualization dashboard to show the result of attribution analysis.
             * Predicted a robust MedianAE of 3.1% and RMSE of 4.5% stock returns, with a PCA-optimized LSTM model.
-            * Developed a bill OCR system to automate the extraction of information from financial bills by optimizing Paddle’s OCR model with 99% accuracy.
+            * Developed a bill OCR system to automate the extraction of information from financial bills by optimizing Paddle's OCR model with 99% accuracy.
         # - title: Professor of Semiconductor Physics
         #   company: University X
         #   company_url: ''
